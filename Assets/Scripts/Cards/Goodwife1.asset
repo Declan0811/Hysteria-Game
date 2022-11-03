@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3da513a2c683e4bb2474f65e87ef54, type: 3}
+  m_Name: Goodwife1
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Goodwife Phrase 1
+  sprite: 9
+  dialogue: The accusations are baseless! I am no witch! She is just accusing me
+    because she is jealous of who I am!
+  leftQuote: I find you guilty on the count of witchcraft. To the gallows with you!
+  rightQuote: I agree. Kids these days

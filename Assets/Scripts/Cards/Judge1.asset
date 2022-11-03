@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3da513a2c683e4bb2474f65e87ef54, type: 3}
+  m_Name: Judge1
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Judge Phrase 1
+  sprite: 3
+  dialogue: Your honor, you seem to be very lenient with your sentencing and I think
+    that you could be protecting these witches!
+  leftQuote: "No, I\u2019m not protecting them. I promise to be more strict with
+    my sentencing"
+  rightQuote: "No, I\u2019m not protecting them. However, I think these trials are
+    a sham and these accusations are baseless"

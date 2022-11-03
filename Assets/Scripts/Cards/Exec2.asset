@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3da513a2c683e4bb2474f65e87ef54, type: 3}
+  m_Name: Exec2
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Exec Phrase 2
+  sprite: 0
+  dialogue: Tomorrow several prominent town members are set to be hanged but many
+    other people want the executions to end, how should we proceed?
+  leftQuote: Hang them regardless of how the people feel
+  rightQuote: I hereby reduce their sentence from death to 2 years in prison

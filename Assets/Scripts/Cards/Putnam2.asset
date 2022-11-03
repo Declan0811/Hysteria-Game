@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3da513a2c683e4bb2474f65e87ef54, type: 3}
+  m_Name: Putnam2
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Putnam Phrase 2
+  sprite: 1
+  dialogue: I would like your permission to build another church on my land and make
+    it the main church in the town. Of course, you would get a cut of the profit
+    from the entry fees.
+  leftQuote: Sounds good to me
+  rightQuote: "That\u2019s not what God would want"

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3da513a2c683e4bb2474f65e87ef54, type: 3}
+  m_Name: Exec3
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Exec Phrase 3
+  sprite: 0
+  dialogue: Your Honor, one of our prisoners is refusing to give up names despite
+    light torture, what shall we do?
+  leftQuote: Torture him with whatever necessary to get the names out of him
+  rightQuote: Force him away from the other prisoners until he either goes mad or
+    gives up the name.

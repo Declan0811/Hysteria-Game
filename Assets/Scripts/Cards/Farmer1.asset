@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3da513a2c683e4bb2474f65e87ef54, type: 3}
+  m_Name: Farmer1
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Farmer Phrase 1
+  sprite: 7
+  dialogue: Your honor, there is no way I have partaken in any witchcraft; these
+    accusations are preposterous!
+  leftQuote: I think otherwise, I find you guilty of witchcraft and sentence you
+    to be hanged by the neck until dead
+  rightQuote: I agree, these accusations are preposterous. You are not guilty of
+    the crime of witchcraft and are free to go

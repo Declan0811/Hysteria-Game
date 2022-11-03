@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3da513a2c683e4bb2474f65e87ef54, type: 3}
+  m_Name: Judge3
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Judge Phrase 3
+  sprite: 3
+  dialogue: Your honor, the priests of this town are getting upset at us for our
+    lack of convictions recently, how shall we proceed?
+  leftQuote: We will continue to judge each case fairly as we have, despite the opinions
+    of the priests
+  rightQuote: '"Find" more guilty verdicts'
