@@ -20,3 +20,11 @@ MonoBehaviour:
     from the entry fees.
   leftQuote: Sounds good to me
   rightQuote: "That\u2019s not what God would want"
+  kPublicLeft: 25
+  kReligionLeft: 13
+  kHysteriaLeft: 0
+  kCourtLeft: 13
+  kPublicRight: 13
+  kReligionRight: -13
+  kHysteriaRight: 0
+  kCourtRight: -13

@@ -20,3 +20,11 @@ MonoBehaviour:
   leftQuote: "You\u2019re lying, a child would never be with the devil"
   rightQuote: This is ludicrous, I am now holding you in contempt of court until
     you can explain yourself
+  kPublicLeft: -13
+  kReligionLeft: 0
+  kHysteriaLeft: 13
+  kCourtLeft: 0
+  kPublicRight: -13
+  kReligionRight: 0
+  kHysteriaRight: 13
+  kCourtRight: 13

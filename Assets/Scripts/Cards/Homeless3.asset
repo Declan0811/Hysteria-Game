@@ -19,3 +19,11 @@ MonoBehaviour:
     others there forced me to. I saw the Goodwife with the devil as well."
   leftQuote: Thank you for coming to the light. BRING THE GOODWIFE TO ME!
   rightQuote: This is nonsense, I sentence you to hang for lying in court
+  kPublicLeft: -13
+  kReligionLeft: 0
+  kHysteriaLeft: 13
+  kCourtLeft: 13
+  kPublicRight: 13
+  kReligionRight: 0
+  kHysteriaRight: -13
+  kCourtRight: 13

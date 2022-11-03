@@ -21,3 +21,11 @@ MonoBehaviour:
     to be hanged by the neck until dead
   rightQuote: I agree, these accusations are preposterous. You are not guilty of
     the crime of witchcraft and are free to go
+  kPublicLeft: 13
+  kReligionLeft: 13
+  kHysteriaLeft: 13
+  kCourtLeft: 13
+  kPublicRight: -13
+  kReligionRight: 0
+  kHysteriaRight: -13
+  kCourtRight: -13

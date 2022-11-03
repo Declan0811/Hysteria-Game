@@ -18,3 +18,11 @@ MonoBehaviour:
   dialogue: AHHH! I'm being attacked by a specter!
   leftQuote: Not my problem
   rightQuote: Get the holy water!
+  kPublicLeft: 13
+  kReligionLeft: 0
+  kHysteriaLeft: -13
+  kCourtLeft: -13
+  kPublicRight: 0
+  kReligionRight: 13
+  kHysteriaRight: 13
+  kCourtRight: 13

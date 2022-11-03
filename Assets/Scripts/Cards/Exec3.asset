@@ -20,3 +20,11 @@ MonoBehaviour:
   leftQuote: Torture him with whatever necessary to get the names out of him
   rightQuote: Force him away from the other prisoners until he either goes mad or
     gives up the name.
+  kPublicLeft: -13
+  kReligionLeft: 0
+  kHysteriaLeft: 0
+  kCourtLeft: 0
+  kPublicRight: -13
+  kReligionRight: 0
+  kHysteriaRight: 0
+  kCourtRight: 0

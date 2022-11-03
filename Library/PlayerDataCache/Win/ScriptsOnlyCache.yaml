@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - Card
     - CardController
     - GameManager
+    - InterfaceManager
     - ResourceManager
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -23,6 +24,7 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
   sceneClasses:
     Assets/Scenes/SampleScene.unity:
     - Class: 1
@@ -53,38 +55,40 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11172}
+      Script: {instanceID: 11170}
     - Class: 114
-      Script: {instanceID: 11354}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11536}
+      Script: {instanceID: 11356}
     - Class: 114
-      Script: {instanceID: 11778}
+      Script: {instanceID: 11380}
     - Class: 114
-      Script: {instanceID: 11804}
+      Script: {instanceID: 11538}
     - Class: 114
-      Script: {instanceID: 12046}
+      Script: {instanceID: 11780}
     - Class: 114
-      Script: {instanceID: 12402}
+      Script: {instanceID: 11806}
     - Class: 114
-      Script: {instanceID: 12416}
+      Script: {instanceID: 12048}
+    - Class: 114
+      Script: {instanceID: 12404}
+    - Class: 114
+      Script: {instanceID: 12418}
     - Class: 114
       Script: {instanceID: 12610}
     - Class: 114
       Script: {instanceID: 12672}
     - Class: 114
-      Script: {instanceID: 12834}
+      Script: {instanceID: 12828}
     - Class: 114
-      Script: {instanceID: 12936}
+      Script: {instanceID: 12930}
     - Class: 114
-      Script: {instanceID: 13046}
+      Script: {instanceID: 13040}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 13090}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -106,6 +110,12 @@ ScriptsOnlyBuild:
     - Class: 258
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: bf310a657a7a278890e30318eadea026
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InterfaceManager
   - hash:
       serializedVersion: 2
       Hash: 4bc4346a71a8df53a6b106f68ef3a190
@@ -228,7 +238,7 @@ ScriptsOnlyBuild:
     className: PhysicsRaycaster
   - hash:
       serializedVersion: 2
-      Hash: 557fcbdf11e8e64eebccfb3ca9d1afb4
+      Hash: 209cbfd92e273a27ac38c66d07ea2c31
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Card
@@ -324,7 +334,7 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
-      Hash: a629ad2f85ca7ec30b8e6517db22af87
+      Hash: b8f4a46e48f82c9e68e8f76930eb210f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameManager
@@ -553,4 +563,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/logan/Desktop/Hysteria 3.exe
+  playerPath: C:/Users/MCM19/OneDrive/Desktop/Hysteria 3.exe

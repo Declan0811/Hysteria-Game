@@ -19,3 +19,11 @@ MonoBehaviour:
     we do?
   leftQuote: Detain the farmers for crimes against our lord
   rightQuote: Let the farmers be for now
+  kPublicLeft: 0
+  kReligionLeft: 13
+  kHysteriaLeft: 0
+  kCourtLeft: 25
+  kPublicRight: 0
+  kReligionRight: -13
+  kHysteriaRight: 0
+  kCourtRight: -13

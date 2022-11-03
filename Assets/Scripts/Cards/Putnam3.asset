@@ -19,3 +19,11 @@ MonoBehaviour:
     witches. I am convinced that you are a witch and am going to tell everyone!
   leftQuote: I'm going to kill you
   rightQuote: "No I\u2019m not"
+  kPublicLeft: -25
+  kReligionLeft: 0
+  kHysteriaLeft: 25
+  kCourtLeft: 0
+  kPublicRight: -13
+  kReligionRight: 0
+  kHysteriaRight: 13
+  kCourtRight: -25

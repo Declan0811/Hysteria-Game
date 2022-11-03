@@ -19,3 +19,11 @@ MonoBehaviour:
     hanged tomorrow at noon, how should we proceed?
   leftQuote: Hang her anyways
   rightQuote: Postpone her execution
+  kPublicLeft: -25
+  kReligionLeft: 0
+  kHysteriaLeft: -25
+  kCourtLeft: 13
+  kPublicRight: 0
+  kReligionRight: 0
+  kHysteriaRight: -13
+  kCourtRight: 0

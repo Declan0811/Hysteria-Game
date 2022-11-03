@@ -20,3 +20,11 @@ MonoBehaviour:
   leftQuote: I believe that you are a witch, and you shall die like one by hanging
     by the neck until you are dead
   rightQuote: you are innocent
+  kPublicLeft: 13
+  kReligionLeft: 0
+  kHysteriaLeft: 25
+  kCourtLeft: 25
+  kPublicRight: 0
+  kReligionRight: 13
+  kHysteriaRight: -13
+  kCourtRight: 0

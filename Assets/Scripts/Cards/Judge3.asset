@@ -20,3 +20,11 @@ MonoBehaviour:
   leftQuote: We will continue to judge each case fairly as we have, despite the opinions
     of the priests
   rightQuote: '"Find" more guilty verdicts'
+  kPublicLeft: -25
+  kReligionLeft: 0
+  kHysteriaLeft: -13
+  kCourtLeft: -13
+  kPublicRight: 13
+  kReligionRight: 0
+  kHysteriaRight: 0
+  kCourtRight: 13

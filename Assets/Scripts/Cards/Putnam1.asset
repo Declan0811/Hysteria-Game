@@ -19,3 +19,11 @@ MonoBehaviour:
     to convict him of Witchcraft and put his land up for sale.'
   leftQuote: Send him to the gallows!
   rightQuote: "No I don\u2019t wanna"
+  kPublicLeft: -13
+  kReligionLeft: 0
+  kHysteriaLeft: 13
+  kCourtLeft: 13
+  kPublicRight: 13
+  kReligionRight: 0
+  kHysteriaRight: -13
+  kCourtRight: 0

@@ -19,3 +19,11 @@ MonoBehaviour:
     because she is jealous of who I am!
   leftQuote: I find you guilty on the count of witchcraft. To the gallows with you!
   rightQuote: I agree. Kids these days
+  kPublicLeft: 0
+  kReligionLeft: 0
+  kHysteriaLeft: 13
+  kCourtLeft: 13
+  kPublicRight: -24
+  kReligionRight: 13
+  kHysteriaRight: -13
+  kCourtRight: 0

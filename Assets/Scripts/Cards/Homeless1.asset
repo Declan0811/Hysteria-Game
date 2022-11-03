@@ -19,3 +19,11 @@ MonoBehaviour:
     have to believe me!
   leftQuote: I find you guilty of witchcraft and sentence you to be hanged
   rightQuote: I find you not guilty, you are free to go
+  kPublicLeft: 25
+  kReligionLeft: 0
+  kHysteriaLeft: 13
+  kCourtLeft: 25
+  kPublicRight: -25
+  kReligionRight: 0
+  kHysteriaRight: -13
+  kCourtRight: 0

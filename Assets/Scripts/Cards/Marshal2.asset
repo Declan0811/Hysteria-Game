@@ -19,3 +19,11 @@ MonoBehaviour:
     in an unholy way, what should we do?
   leftQuote: Arrest her for witchcraft and bring her to me
   rightQuote: Let her be
+  kPublicLeft: 0
+  kReligionLeft: 0
+  kHysteriaLeft: 0
+  kCourtLeft: 0
+  kPublicRight: -13
+  kReligionRight: -25
+  kHysteriaRight: -13
+  kCourtRight: 0

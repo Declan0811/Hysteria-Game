@@ -19,3 +19,11 @@ MonoBehaviour:
     to compensate us for all the things we do for this town?"
   leftQuote: "No, I don\u2019t think so"
   rightQuote: Yeah, why not
+  kPublicLeft: -13
+  kReligionLeft: 25
+  kHysteriaLeft: 0
+  kCourtLeft: 0
+  kPublicRight: 13
+  kReligionRight: 13
+  kHysteriaRight: 0
+  kCourtRight: 0
