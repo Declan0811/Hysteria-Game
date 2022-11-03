@@ -19,11 +19,3 @@ MonoBehaviour:
     other people want the executions to end, how should we proceed?
   leftQuote: Hang them regardless of how the people feel
   rightQuote: I hereby reduce their sentence from death to 2 years in prison
-  kPublicLeft: -25
-  kReligionLeft: 0
-  kHysteriaLeft: -13
-  kCourtLeft: 13
-  kPublicRight: 0
-  kReligionRight: 13
-  kHysteriaRight: 0
-  kCourtRight: -13

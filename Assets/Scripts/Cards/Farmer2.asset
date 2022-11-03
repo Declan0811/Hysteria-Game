@@ -20,11 +20,3 @@ MonoBehaviour:
   leftQuote: Thank you, I will get the Marshals to detain all of these people later
     tonight, and you are now held in contempt of court
   rightQuote: Ok thank you for this, I will take this into consideration
-  kPublicLeft: -13
-  kReligionLeft: 13
-  kHysteriaLeft: 13
-  kCourtLeft: 25
-  kPublicRight: -13
-  kReligionRight: 0
-  kHysteriaRight: -25
-  kCourtRight: 0

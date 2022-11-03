@@ -21,11 +21,3 @@ MonoBehaviour:
   leftQuote: I hold you in contempt of court, this opinion is completely unfounded
     and unacceptable
   rightQuote: "Interesting take on the situation, I\u2019ll look into it"
-  kPublicLeft: 13
-  kReligionLeft: 13
-  kHysteriaLeft: 13
-  kCourtLeft: 13
-  kPublicRight: 0
-  kReligionRight: -13
-  kHysteriaRight: 0
-  kCourtRight: 0

@@ -19,11 +19,3 @@ MonoBehaviour:
     the Goodwife was there with him!
   leftQuote: Nonesense, I don't believe it
   rightQuote: Bring her to the courts
-  kPublicLeft: 0
-  kReligionLeft: 0
-  kHysteriaLeft: -13
-  kCourtLeft: -13
-  kPublicRight: 0
-  kReligionRight: 0
-  kHysteriaRight: 0
-  kCourtRight: 0

@@ -19,11 +19,3 @@ MonoBehaviour:
     work together in order to stop them.
   leftQuote: I agree
   rightQuote: No thanks
-  kPublicLeft: 0
-  kReligionLeft: 0
-  kHysteriaLeft: 13
-  kCourtLeft: 25
-  kPublicRight: 0
-  kReligionRight: 0
-  kHysteriaRight: -13
-  kCourtRight: -13

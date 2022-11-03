@@ -21,11 +21,3 @@ MonoBehaviour:
     my sentencing"
   rightQuote: "No, I\u2019m not protecting them. However, I think these trials are
     a sham and these accusations are baseless"
-  kPublicLeft: 13
-  kReligionLeft: 13
-  kHysteriaLeft: 13
-  kCourtLeft: 0
-  kPublicRight: -25
-  kReligionRight: 13
-  kHysteriaRight: -25
-  kCourtRight: -25

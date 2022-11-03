@@ -19,11 +19,3 @@ MonoBehaviour:
     It must\u2019ve been the local town elite but he was up to no good, I swear!"
   leftQuote: I will find him and hang him for this, thank you
   rightQuote: Your mind confuses you, try to stay sane
-  kPublicLeft: -25
-  kReligionLeft: 0
-  kHysteriaLeft: -25
-  kCourtLeft: 25
-  kPublicRight: 0
-  kReligionRight: 0
-  kHysteriaRight: 0
-  kCourtRight: 0

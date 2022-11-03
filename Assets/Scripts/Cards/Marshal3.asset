@@ -19,11 +19,3 @@ MonoBehaviour:
     into the woods, what should we do?
   leftQuote: Hunt him down and send more marshalls to control the farm area
   rightQuote: "Let him run, he won\u2019t last long anyways"
-  kPublicLeft: -25
-  kReligionLeft: 13
-  kHysteriaLeft: 13
-  kCourtLeft: 25
-  kPublicRight: -13
-  kReligionRight: 0
-  kHysteriaRight: 13
-  kCourtRight: 0

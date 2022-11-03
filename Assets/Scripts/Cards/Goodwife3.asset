@@ -19,11 +19,3 @@ MonoBehaviour:
     is a sign of lucifer!
   leftQuote: Bring the servant to me
   rightQuote: You are mistaken
-  kPublicLeft: 0
-  kReligionLeft: 0
-  kHysteriaLeft: 0
-  kCourtLeft: 0
-  kPublicRight: -13
-  kReligionRight: 13
-  kHysteriaRight: -13
-  kCourtRight: 0
